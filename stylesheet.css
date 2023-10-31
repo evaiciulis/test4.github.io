@@ -1,0 +1,203 @@
+@charset "UTF-8";
+.nav {
+    /* [disabled]background-color: #708A81; */
+    color: #708A81;
+}
+style>
+a:link, a:visited {
+  background-color: #708A81;
+  color: #2B2128;
+  padding: 15px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: #DD8E58;
+}.head2 {
+    color: #708A81;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-size: 65px;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+.head3 {
+    color: #708A81;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-size: 65px;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+.typ.h2 {
+    color: #317DFF;
+}
+.typh2 {
+    color: #2B2128;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-weight: lighter;
+    margin-left: 80px;
+    margin-right: 80px;
+    font-size: 20px;
+}
+.typ1 {
+    margin-left: 80px;
+    margin-right: 80px;
+    color: #2B2128;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-size: 25px;
+    font-weight: 200;
+}
+.typ3 {
+    color: #708A81;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-size: 40px;
+    font-weight: 600;
+    margin-left: 80px;
+}
+.typ4 {
+    margin-left: 80px;
+    margin-right: 80px;
+    color: #2B2128;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-size: 25px;
+    font-weight: 200;
+}
+.typh3 {
+    color: #708A81;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-weight: 600;
+    font-size: 40px;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+.typp1 {
+    color: #2B2128;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-weight: 200;
+    font-size: 25px;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+.typhh3 {
+    margin-left: 80px;
+    margin-right: 80px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    color: #E5D1B8;
+    font-family: "Trophy Regular";
+    background-color: #2B2128;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.typp2 {
+    color: #2B2128;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-weight: 200;
+    font-size: 25px;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+.typph2 {
+    color: #708A81;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-weight: 600;
+    font-size: 40px;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+maintext {
+    color: #2B2128;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-weight: 200;
+    font-size: 25px;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+.image.author {
+    text-align: center;
+    float: left;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+.authortext {
+    float: right;
+}
+.typh33 {
+    margin-left: 120px;
+    margin-right: 120px;
+    text-align: center;
+    color: #708A81;
+    font-family: "Trophy Regular";
+    font-size: 25px;
+    font-weight: lighter;
+}
+.bottom {
+}
+.button1 {
+    margin-left: 120px;
+    font-family: "Trophy Regular";
+    color: #E5D1B8;
+    background-color: #DD8E58;
+    background-image: url(url);
+    font-size: 25px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 20px;
+    -webkit-box-shadow: inset 30px 30px 10px #DD8E58;
+    box-shadow: inset 30px 30px 10px #DD8E58;
+}
+.button2 {
+    font-family: "Trophy Regular";
+    font-size: 25px;
+    background-color: #DD8E58;
+    color: #E5D1B8;
+    border-radius: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    text-align: center;
+}
+.toneimage {
+    margin-left: 85px;
+    margin-right: 80px;
+    float: inherit
+}
+.list {
+    margin-left: 250px;
+    margin-right: 600px;
+    background-color: #C1946D;
+    background-size: auto auto;
+    border-radius: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: "Trophy Regular";
+    font-style: oblique;
+    font-weight: 600;
+    color: #E5D1B8;
+    font-size: 25px;
+    text-align: left;
+}
+.tpph2 {
+}
+.li {
+}
+.negativeimage {
+    margin-left: 80px;
+    margin-right: 80px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.button11 {
+    margin-left: 100px;
+    -webkit-box-shadow: inset 0px 0px;
+    box-shadow: inset 0px 0px;
+}
